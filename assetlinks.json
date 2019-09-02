@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "de.smoothr.flutter_cache_test",
+    "sha256_cert_fingerprints":
+    ["68:73:23:E3:A8:AB:39:97:C0:5C:01:21:40:4C:A7:EE:6F:8B:F0:65:1E:64:43:40:20:FA:1C:56:44:9D:8B:53"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://dmitryivan.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "de.smoothr.flutter_cache_test",
+    "sha256_cert_fingerprints":
+    ["68:73:23:E3:A8:AB:39:97:C0:5C:01:21:40:4C:A7:EE:6F:8B:F0:65:1E:64:43:40:20:FA:1C:56:44:9D:8B:53"]
+  }
+}]
